@@ -34,7 +34,9 @@ module.exports = {
             name,
             user: username,
             bio,
-            avatar
+            avatar,
+            likes: [],
+            dislikes: []
         });
 
         return res.json(dev);

@@ -1,2 +1,1 @@
-# omni-stack-8-backend
-Tindev app build during Omni Stack 8 week from Rocketseat.
+Tindev backend app build with NodeJS during Rocketseat Omni Stack 8 week.
