@@ -1,4 +1,4 @@
-# Tindev Server Project
+# Tindev API
 
 NodeJS project developed copying the instructor coding during the Rocketseat OmniStack week.
 
